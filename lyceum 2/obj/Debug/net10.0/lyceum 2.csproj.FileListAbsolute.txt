@@ -1,0 +1,14 @@
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.AssemblyInfoInputs.cache
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.AssemblyInfo.cs
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.csproj.CoreCompileInputs.cache
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/bin/Debug/net10.0/lyceum 2
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/bin/Debug/net10.0/lyceum 2.deps.json
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/bin/Debug/net10.0/lyceum 2.runtimeconfig.json
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/bin/Debug/net10.0/lyceum 2.dll
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/bin/Debug/net10.0/lyceum 2.pdb
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.dll
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/refint/lyceum 2.dll
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.pdb
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/lyceum 2.genruntimeconfig.cache
+/Users/jurajpokojny/RiderProjects/ConsoleApp1/lyceum 2/obj/Debug/net10.0/ref/lyceum 2.dll
