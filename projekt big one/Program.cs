@@ -8,7 +8,8 @@ while (true)
 
 
 
-    if (mode == "sum")
+    if (mode == "sum") //test
+    
     {
         Console.WriteLine("zapiš 2 čisla ktore chceš sčiťať");
         int cislo1sum = int.Parse(Console.ReadLine());
