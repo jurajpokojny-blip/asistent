@@ -353,7 +353,7 @@ else
     Console.WriteLine("Taký vek sa v zozname nenachádza.");
 }
 */
-List<string> mena = new List<string> { "Anton", "Mojmir", "Gregor", "Lucius" };
+/*List<string> mena = new List<string> { "Anton", "Mojmir", "Gregor", "Lucius" };
 List<int> veky = new List<int> { 17, 29, 8, 12 };
 Console.Write("Koho chceme vymazat? Zadaj vek: ");
 int hladany_vek = int.Parse(Console.ReadLine());
@@ -368,4 +368,15 @@ if (pozicia != -1)
 else
 {
     Console.WriteLine("neni tu.");
+}*/
+int[] cisla = { 10, 2, 70, 9 };
+
+Array.Sort(cisla);
+for (int i = [0]; cisla[i] < cisla[]; cisla[i]++)
+{
+    if ()
+    {
+        
+    }
 }
+
