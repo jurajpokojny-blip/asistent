@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lyceum 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34b5c5a2714e5dfdc6a6adcbc14583868e23e930")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3645cb371aa584a5b35c023dbeb11aba9a52b45c")]
 [assembly: System.Reflection.AssemblyProductAttribute("lyceum 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lyceum 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
