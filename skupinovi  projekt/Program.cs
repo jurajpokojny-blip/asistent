@@ -2,11 +2,9 @@
 
 class Program
 {
-    static void Main(string[] args)
-    {++
+    static void Main()
+    {
         int[] pole = { 10, 20, 30, 5, 80 };
-
-        
         Vypocitaj(pole);
     }
 
@@ -25,12 +23,12 @@ class Program
             }
         }
 
-        int priemer = sucet / pole.Length;
+        double priemer = (double)sucet / pole.Length;
 
         Vypis(priemer, max);
     }
 
-    static void Vypis(int priemer, int max)
+    static void Vypis(double priemer, int max)
     {
         Console.WriteLine("Priemer je: " + priemer);
         Console.WriteLine("Najvacsie cislo je: " + max);
