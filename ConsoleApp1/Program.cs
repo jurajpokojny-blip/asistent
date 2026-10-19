@@ -369,7 +369,7 @@ else
 {
     Console.WriteLine("neni tu.");
 }*/
-int[] cisla = { 10, 2, 70, 9 };
+/*int[] cisla = { 10, 2, 70, 9 };
 
 Array.Sort(cisla);
 for (int i = [0]; cisla[i] < cisla[]; cisla[i]++)
@@ -378,5 +378,70 @@ for (int i = [0]; cisla[i] < cisla[]; cisla[i]++)
     {
         
     }
+}*/
+/*Console.WriteLine("Vitajte v hre Rytieri a Draci!");
+        
+// Volanie funkcie
+VypisMenu();
+        
+Console.ReadKey();
+
+// --- TU DOPÍŠ FUNKCIU VypisMenu---
+void VypisMenu()
+
+{
+    Console.WriteLine("1. Nová hra");
+    Console.WriteLine("2. Načítať");
+    Console.WriteLine("3. Koniec");
+
+}*/
+/*onsole.Write("Zadaj svoje meno: ");
+string meno = Console.ReadLine();
+
+// Volanie funkcie
+PrivitajPouzivatela(meno);
+
+Console.ReadKey();
+
+// --- TU DOPÍŠ FUNKCIU PrivitajPouzivatela---
+void PrivitajPouzivatela(string meno)
+
+{
+    Console.WriteLine("Ahoj juraj" + meno );
+    Console.Write("sme radi, že si späť!");
+}    
+*/
+/*while (true)
+{
+    Console.Write("Zadaj vek návštevníka: ");
+    string? vstup = Console.ReadLine();
+    if (!int.TryParse(vstup, out int vek))
+    {
+        Console.WriteLine("\"" + vstup + "\" nie je platné číslo");
+        continue;
+    }
+    bool mozeVstupit = JePlnolety(vek);
+    if (mozeVstupit)
+    {
+        Console.WriteLine("Vstup povolený.");
+    }
+    else
+    {
+        Console.WriteLine("Vstup zakázaný. Si príliš mladý.");
+    }
 }
 
+// --- TU DOPÍŠ FUNKCIU JePlnolety ---
+
+bool JePlnolety(int vek)
+{
+    if (vek >= 18)
+    {
+        return true;
+    }
+    if (vek <= 18)
+    {
+        return false;
+    }
+}
+*/
